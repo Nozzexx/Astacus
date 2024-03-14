@@ -16,6 +16,7 @@
 - Multiple Personality Modes
 - Custom Designed PCB
 - Omni-Directional "Attacking"
+- Audio Visual Feeds
 
 **Hot-Swappable Gaits**
 - Wave Gait
