@@ -3,7 +3,7 @@
 
 Astacus is a cutting-edge hexapod robot that brings together advanced robotics, artificial intelligence, and multi-gait mobility. Designed for both practical applications and fun, Astacus offers a unique blend of custom features, autonomous behaviors, and versatile control modes.
 
-**⚠️ Note:** *Project Astacus is still a work in progress. Not all features are fully implemented yet, but we are actively developing and expanding its capabilities.*
+**⚠️ Note:** *Project Astacus is still a work in progress. Not all features are fully implemented yet, but I are actively developing and expanding its capabilities.*
 
 ## 🚀 Features
 ### 🦾 **Hexapod Design**
